@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    display: flex;
+    height: 40rem;
+}
+main{
+    width: 50%;
+    margin: auto;
+}
+.card-tittle{
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    border: 5px solid black;
+}
